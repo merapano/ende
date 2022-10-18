@@ -1,0 +1,16 @@
+digraph uni {
+
+size = 1.0
+rankdir=TD;
+
+A6,A5,A4,A3,A2,A1,B5,B4,B3,B2,B1
+  [shape="triangle", regular=true, style=filled,
+   fixedsize=true, width=1]
+  A5,B5 [color="dimgray", fontcolor=white]
+  A4,B4 [color="darkgray", fontcolor=white]
+  A3,B3 [color="gray"]
+  A2,B2 [color="lightgray"]
+  A1,B1 [color="gainsboro"]
+  A6->A5->A4->A3->A2->A1
+  A6->B5->B4->B3->B2->B1
+}
