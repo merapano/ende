@@ -24,7 +24,16 @@ github には 2021-08 にアップしています。
 
 # 内容紹介
 
-[SUMMARYファイル](SUMMARY.md) を見てください。
+- [『出かける』](visit.md)---外国へ (visit.md) 
+- [「降りる」](descend.md)---エンデの家族 (descend.md) 
+- [『結婚する』](marry.md)---エンデの結婚 (marry.md) 
+- [『与える』](give.md)---エンデの交換 (give.md) 
+- [「名付ける」](reda.md)------豚の洗礼 (reda.md) 
+- [『売る』](sell.md)---エンデの市場経済 (sell.md) 
+- [『知る』](know.md)---エンデの秘密の知識 (know.md) 
+- [『移る』](move.md)---エンデの労働移民 (move.md) 
+- [『帰る』](return.md)---エンデから (return.md) 
+
 
 
 

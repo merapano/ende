@@ -10,7 +10,7 @@ version: v0.1.0
 - P [『結婚する』](marry.md)---エンデの結婚 (marry.md) 
 - P [『与える』](give.md)---エンデの交換 (give.md) 
 - V [「辿る」](trace.md) (trace.md) 
-- V [「名付ける」](reda.md)------豚の洗礼 (reda.md) 
+- P [「名付ける」](reda.md)------豚の洗礼 (reda.md) 
 - P [『売る』](sell.md)---エンデの市場経済 (sell.md) 
 - P [『知る』](know.md)---エンデの秘密の知識 (know.md) 
 - V [『歌う』](sing.md)---エンデの国家 (sing.md) 
