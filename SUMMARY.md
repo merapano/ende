@@ -4,6 +4,7 @@ author: Satoshi Nakagawa
 version: v0.1.0
 ---
 
+- V [README](README.md) (README.md) <<P>>
 - P [『出かける』](visit.md)---外国へ (visit.md) 
 - V [『下る』](go_down.md)---田舎へ (go_down.md) 
 - P [「降りる」](descend.md)---エンデの家族 (descend.md) 
