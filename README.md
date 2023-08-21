@@ -1,8 +1,8 @@
 ---
 title: README
 author: "Satoshi Nakagawa"
-date: 
-- 2021-08-03
+date: 2021-08-03
+updated: 
 ---
 
 # はじめに
