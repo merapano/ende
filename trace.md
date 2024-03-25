@@ -1,9 +1,28 @@
 ---
-title: 辿る
-author: Satoshi Nakagawa
+title: "辿る"
+author: "Satoshi Nakagawa"
+documentclass: bxjsarticle
+lang: ja-JP
+created:
 date: 
+nocite: 
 ---
     
+<!---
+---
+RCS-title: 辿る
+RCS-spec: 2016-03 作成
+RCS-memo: おばの道ではなくて象牙の道
+RCS-filename: $RCSfile$
+RCS-date: Wed Mar 16 09:16:07 2016
+RCS-state: $Date$
+RCS-revision: $State$
+RCS-something: $Revision$
+RCS-converted-date: 2024-03-25
+
+---
+-->
+
 # はじめに
 
 # 友だちと贈り物
@@ -36,7 +55,7 @@ date:
 ### Gifts Make Friends
 
  モースは『贈与論』
-([@mauss-gift])の中で、
+<!---[@mauss-gift]-->の中で、
 ``Friends make gifts but
 gifts make friends'' という名言を
 残している。
@@ -90,16 +109,13 @@ gifts make friends'' という名言を
 それは自分の結婚相手が嫁を受け取る者である
 可能性がある時である。
 
-<!-- BEGIN:LIST -->
-★ 多過ぎる嫁を与える者、嫁を受け取る者への対処
-
+##### 多過ぎる嫁を与える者、嫁を受け取る者への対処
+  
 - たいていは「状況に応じて」、いいかげん
 	に決める
 - しかし、結婚相手が「嫁を受け取る者」で
 	ある可能性があるときは問題となる。彼女のグルー
 	プが「嫁を与える者」であることを
-
-<!-- END:LIST -->
 
  この時、レッダ（分析用語としてのレッダ）を
 するのが婚資である。
@@ -108,57 +124,41 @@ gifts make friends'' という名言を
 
 # 現実との対応
 
-<!-- BEGIN:LIST -->
-★ Too Few MBD or FZS
-
+##### Too Few MBD or FZS
+  
 - Patrilineality comes to rescue
 - There must be lots of classificatory
 	MBD or FZS
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Too May MBDs or FZSs
-
+##### Too May MBDs or FZSs
+  
 - Gift exchange comes to rescue
 - You have to marry a
 	bridewealth-connected MBD or FZS
 
-<!-- END:LIST -->
-
 ## Too Many Wife Givers
 
-<!-- BEGIN:LIST -->
-★ Too many WGs 1/3
-
+##### Too many WGs 1/3
+  
 - WG's WG is always WG
 - And, because of Ana ArhE (non-MBDM) and other reasons
 - there are always lots and lots and lots
 	of WGs in our world.
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Too many WGs 2/3
-
+##### Too many WGs 2/3
+  
 - Should we be always careful as to who is and
 	who is not our WG, 
 - by memorizing all the
 	relevant genealogies?
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Too many WGs 3/3
-
+##### Too many WGs 3/3
+  
 - No.
 - It is only gift exchange that matters/counts.
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Who is WG and who is not
-
+##### Who is WG and who is not
+  
 - Whoever receives bridewealth is WG
 - if your wife's MFFFFFFFFSSSSSSSS
 	attended your wedding and received a portion
@@ -166,40 +166,28 @@ gifts make friends'' という名言を
 - Then he is your WG 
 - Otherwise not; he is too distant.
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Gift narrows down the choice
-
+##### Gift narrows down the choice
+  
 - or it changes his status.
 - Into a socially recognized "WG".
 - --- it is Sociality that we're talking
 	about now.
 
-<!-- END:LIST -->
-
 ## 象牙の道を辿る
 
-<!-- BEGIN:LIST -->
-★ Who is my "lover" (my husband to be)?
-
+##### Who is my "lover" (my husband to be)?
+  
 - You have to follow the path of the
 	elephant tusks.
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Tracing the Elephant Tusks
-
+##### Tracing the Elephant Tusks
+  
 - MBDM in Endenese: *Mburhu Nduu* // *Wesa Senda*
 - (1) Tracing the path // connecting the trail
 - (1) Tracing the Tens // Connecting the ivory
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Bridewealth connected B/Z
-
+##### Bridewealth connected B/Z
+  
 - *Wa'u se imu* // *nai se imu*
 - One goes out // one comes in
 - B uses his Z's bridewealth for his own
@@ -209,63 +197,47 @@ gifts make friends'' という名言を
 	the path of the elephant tusk (her FZ's
 	bridewealth) and marry her FZ's son.
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Gift narrows down the choice
-
+##### Gift narrows down the choice
+  
 - or prestation formalize "your husband
 	to be" from many possible "husbands".
 
-<!-- END:LIST -->
-
 ## Flow of Bridewealth
 
-<!-- BEGIN:LIST -->
-★ Bridewealth is exchanged
-
+##### Bridewealth is exchanged
+  
 - not only between H's group and W's group
-
-<!-- END:LIST -->
 
 ### On the side of WT (the groom's group)
 
-<!-- BEGIN:LIST -->
-★ Asking for Help
-
+##### Asking for Help
+  
 - A groom's group needs help
 - (1) agnates (patrilineal members)
 - (2) co-villagers
 - (3) especially, WTs
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Bou
-
+##### Bou
+  
 - A gathering (bou) is to be held to
 	collect bridewealth from "Friends and
 	relatives", especially from their own WTs.
 
-<!-- END:LIST -->
-
 ### On the side of WG (the bride's group)
 
-<!-- BEGIN:LIST -->
-★ Dividing the bridewealth received
-
+##### Dividing the bridewealth received
+  
 - The bride's group cannot enjoy the wealth
 - They have to divide the wealth
 	immediately to:
 - their own WG, especially the woman's MB
 	(her main WG, *ka'E embu* *pu'u*)
 
-<!-- END:LIST -->
-
 # References
 
 [^FN-1]: 女性の場合にはここで説明するより
 詳細な説明が必要だが、省略する。
+
 [^FN-2]: 直前の脚注参照。
 ここでは分かりやすい男性を
 例とする

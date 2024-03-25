@@ -1,11 +1,29 @@
 ---
-title: 父の背中---あたらしい嫁を与える者たち
-author: Satoshi Nakagawa
-
-documentclass: ltjsarticle
-classoption: twocolumn
-papersize: a5
+title: "父の背中---あたらしい嫁を与える者たち"
+author: "Satoshi Nakagawa"
+documentclass: bxjsarticle
+lang: ja-JP
+created:
+date: 
+nocite: 
 ---
+    
+<!---
+---
+RCS-title: 父の背中---あたらしい嫁を与える者たち
+RCS-spec: 2016-03 に重複ファイルの行く先をさがした末に、このディレクトリにした
+RCS-memo: ゾンゴ・アタ・アキについて
+RCS-filename: $RCSfile$
+RCS-date: Wed Mar 16 08:54:14 2016
+RCS-state: $Date$
+RCS-revision: $State$
+RCS-something: $Revision$
+RCS-converted-date: 2024-03-25
+
+---
+-->
+
+# 
 
 # Prologue
 
@@ -27,28 +45,25 @@ papersize: a5
 馬の来歴を聞いた。
 答えは以下の通りだった。
 
-<!-- BEGIN:QUOTE -->
-
+☆ 
+  
+> 
 二つ谷を超えた村のラサがくれたんだ。
 ラサの顔は知っているけど、
 とくに深いつきあいもない男だ。
 彼がつぎのように言うのだ---
 
-<!-- BEGIN:QUOTE -->
-
+☆ 
+  
+> 
     「わたしの妹が結婚することになった。
     それで母親の背中だけでなく、
     父親の背中も探すことになったんだ。
     けっきょくお前がその父親の背中
     だとわかったんだ」
     
-<!-- END:QUOTE -->
-
-<!-- END:QUOTE -->
-
-<!-- BEGIN:LIST -->
-★ How Yaan acquired the horse
-
+##### How Yaan acquired the horse
+  
 - The horse was given by Lasa of
 a village two valleys away. I know him but
 not intimately.
@@ -63,8 +78,6 @@ very person,
 a descendant of our father's back.''
 - Thus the horse was given to Yaan as
 	*ngawu* (bridewealth) of Lasa's sister.
-
-<!-- END:LIST -->
 
  そして、ラサが妹の婚資
 （ンガヴ ）としてもらった
@@ -86,21 +99,15 @@ a descendant of our father's back.''
 「父親の背中」とは
 「父方の嫁を与える者」のことである。
 
-<!-- BEGIN:LIST -->
-★ 背中 Back
-
+##### 背中 Back
+  
 - 母の背中 ---母方の嫁を与える者（カッエウンブ）
 - 父の背中 ---父方の嫁を与える者（カッエウンブ）
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Back
-
+##### Back
+  
 - Mother's Back --- maternal WG
 - Father's Back --- paternal WG
-
-<!-- END:LIST -->
 
 ## 基本知識---婚資の流れ
 
@@ -119,14 +126,11 @@ a descendant of our father's back.''
 結婚の際に婿の側から嫁の側へ
 与える**財**を指す。
 
-<!-- BEGIN:LIST -->
-★ 人類学における「婚資」
-
+##### 人類学における「婚資」
+  
 - 結婚の際に
 - 婿の側が嫁の側に贈る
 - 財
-
-<!-- END:LIST -->
 
  エンデにおいても、
 基本的にその通りなのだが、
@@ -153,65 +157,41 @@ a descendant of our father's back.''
 ンガヴという語を使用していく。
 [^FN-1]
 
-<!-- BEGIN:LIST -->
-★ エンデの嫁を与える者と嫁を受け取る者
-
+##### エンデの嫁を与える者と嫁を受け取る者
+  
 - いちど結婚が行なわれると
 - 婿側は「嫁を受け取る者」
 - 嫁側は「嫁を与える者」という
 - 世代を越えた関係にはいる
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ 婚資（ンガヴ）のやりとり
-
+##### 婚資（ンガヴ）のやりとり
+  
 - （この関係の作られた）結婚の際に限らない
 - さまざまな機会（葬式、成人式等々）に
 - 嫁を受け取る者は
 - 嫁を与える者に財（ンガヴ）を与える
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ 嫁を与える者の男の結婚
-
+##### 嫁を与える者の男の結婚
+  
 - 嫁を与える者の男の結婚も
 - そのような機会である
 
-<!-- END:LIST -->
+```
 
-![嫁を与える者たち](dot/wgs.jpg){width=50%x} \
+           B0 m                 C0 m
+              |                    |
+        +-----+------+-----+    +--+
+        |     |      |     |    |  |
+A1 m == f     m ==f  m     m == f  m
+   |   B2  B1 |     B5    B3    C1 C2
+   |          |
+A2 m       B4 m === f
 
-<!--
-_PRE(
-                                    
-A0
-|--+
-|  |              C1       D1
-m   f ================= m       m 
-|A1  a1            |      |
-|         m B1     |      |
-|         |--+     |      |
-|         |  |     |      |       |
-m A2      B2 m  f ====  m C2    m D2
-|         |  b2    |       |
-|         |        +--+    |
-|         |        |  |    |
-m           m           m   f === m 
-A3          B3         C3   c3     D3
-) 
+【方向を逆にしたほうがいいだろう】
 
--->
+```
 
-D グループの男、D3 が C グループの女、c2 と
-結婚するとしましょう。
-D グループが C グループに（すなわち、C3 や C2 に）
-婚資 (*ngawu*) を贈与することとなります。
-婚資はいくつものユニットから構成されていると考えられています ---
-C グループは、婚資をうけとった後、
-ユニットごとに分割して、それぞれの宛先にわたしてゆきます。
-
+ A1がB2と結婚するとき、
 B1（妻の兄弟）あるいはB0（妻の父親）に、
 すなわちB家にンガヴを支払う。
 ただしンガヴ支払いはそれで終わった訳ではない。
@@ -227,15 +207,12 @@ B家はC家にンガヴを支払うのだが、
 A家にB家にンガヴを持ってくる
 （そして、それはC家に贈られるのだ）。
 
-<!-- BEGIN:LIST -->
-★ ンガヴのやり取り
-
+##### ンガヴのやり取り
+  
 - A1 の結婚のとき、A→B
 - B0 の葬儀のとき、A→B
 - B3 の結婚のとき、A→B
 - B4 の結婚のとき、A→B
-
-<!-- END:LIST -->
 
  B3 の結婚を考えよう。
 そのためにB家はンガヴを準備する。
@@ -258,8 +235,11 @@ Z家からA家へ、
 A家からB家へ、
 そしてB家からC家へと。
 
-     Z → A → B → C
+```
 
+Z → A → B → C
+
+```
 
  C家の受け取ったンガヴは、
 そこにとどまらない。
@@ -267,7 +247,8 @@ C家は、そのうちの大きな部分を
 嫁を与える者であるD家に
 贈るのである。
 
-_PRE(
+```
+
                                         +--+
                                         |  |
            B0 m                 C0 m == f  m
@@ -281,10 +262,13 @@ A2 m       B4 m === f
 
 【方向を逆にしたほうがいいだろう】
 
-)
+```
 
+```
 
-     C → D
+C → D
+
+```
 
  すなわち、
 ンガヴ支払いが行なわれると、
@@ -328,14 +312,11 @@ B家にまとめられたンガヴは C家へと
  これまでの説明から出てくるかもしれない
 いくつかの誤解をあらかじめ解いておこう。
 
-<!-- BEGIN:LIST -->
-★ 注意点
-
+##### 注意点
+  
 - (1) 母方交差イトコ婚はあまり行なわれない
 - (2) 嫁を与える者から嫁を受け取る者へ財
 	が贈られる
-
-<!-- END:LIST -->
 
  第一点は、
 母方交差イトコ婚はすべての人が
@@ -360,23 +341,20 @@ B家にまとめられたンガヴは C家へと
 主たる財の種類を
 表にした。
 
+```
 
-| goods   |   wt → wg | wg → wt    |
-|:-------:|-----------:|-------------|
-| animals |  all kinds | pigs        |
-| others  |      ivory | women       |
+|---------+------------+-------------|
+| goods   | wt --> wg  | wg -->      |
+|---------+------------+-------------|
+| animals | all kinds  | pigs        |
+|         | but pig    |             |
+|---------+------------+-------------|
+|         | ivory      | women       |
 |         | gold items | land        |
 |         |            | rice banana |
+|---------+------------+-------------|
 
-Table: 贈り物のやりとり
-
-品物    WT から WG へ     WG から WT へ
-:----   --------------:       --------------:
-動物  （豚以外の）すべて   豚
-その他  象牙              女性
----  金細工            土地
----  お金             米・バナナ
-
+```
 
  ンガヴのやり取りがあったあと、
 たとえば結婚のンガヴのやりとりの
@@ -397,13 +375,10 @@ Table: 贈り物のやりとり
 嫁を与える者の嫁を受け取る者であり、
 蚊帳の外の筈なのだ。
 
-<!-- BEGIN:LIST -->
-★ 男の背中の不思議
-
+##### 男の背中の不思議
+  
 - 女の背中：嫁を与える者の嫁を与える者
 - 男の背中：嫁を与える者の嫁を受け取る者
-
-<!-- END:LIST -->
 
 ## サムのボウ
 
@@ -412,65 +387,52 @@ Table: 贈り物のやりとり
 ことを付け加えておこう。
 
 ```
+
 +---------+
 |         |
 m         f === m
 A               |
                 m === f
                 B
+
 ```
 
 ## 不思議なボウ A strange bou
 
-<!-- BEGIN:LIST -->
-★ Sam's bou 1
-
+##### Sam's bou 1
+  
 - Sam is my sister's son (I'm one of his
 	main WG, *ka'E embu pu'u*).
 - Selus is my younger brother (that is,
 	Selus is the main WG of Sam).
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Sam's bou 2
-
+##### Sam's bou 2
+  
 - Sam was going to marry and thus needed
 	help --- needed more bridewealth (*ngawu*).
 - So he held a *bou*,
 - which, I understood, should consisted
 	of WTs.
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Sam's bou 3
-
+##### Sam's bou 3
+  
 - To my astonishment, Sam invited Selu
 	and me (the main WG) and
 - Selu attended the *bou*,
 	carrying a considerable amount of wealth. 
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Selu's elucidation
-
+##### Selu's elucidation
+  
 - I attended Sam's *bou* so that
 - I still have the right over the future offspring
 - of their (Sam and his wife's) marriage.
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ From Sam's point of view
-
+##### From Sam's point of view
+  
 - It was done so that he can still keep
 - the "meaningful" relationship 
 - (even after his marriage)
 - with his old main WG.
-
-<!-- END:LIST -->
 
 ## 答の背景
 
@@ -485,32 +447,22 @@ A               |
 
  A second part of the Part I (Ethnography)
 
-<!-- BEGIN:LIST -->
-★ MBDM is now strictly forbidden
-
+##### MBDM is now strictly forbidden
+  
 - Catholic church has forbidden 
 - any MBDM (including classificatory ones)
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Yaan and Oli
-
+##### Yaan and Oli
+  
 - Perhaps Yaan and Oli's case is
 - one of the last MBDM.
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ The inevitable consequence
-
+##### The inevitable consequence
+  
 - one group has multiple WGs
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Good old days
-
+##### Good old days
+  
 - One had only one WG ---
 - a man's WF (his WG) was, in many cases,
 - his MB (his WG), that is his WB, who,
@@ -519,21 +471,15 @@ A               |
 - The same went true with his FF and FFF
 	and so on.
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Nowadays
-
+##### Nowadays
+  
 - A mans' WF is not his father's WB.
 - A man's WG is not his father's WG.
 
-<!-- END:LIST -->
-
 ## 父の背中と母の背中 Mother's back and father's back
 
-<!-- BEGIN:LIST -->
-★ This is why
-
+##### This is why
+  
 - the villagers now began to talk about
 	the father's back
 - the mother's back (the main WG) used to
@@ -541,13 +487,10 @@ A               |
 	father's main WG).
 - But now they are different people.
 
-<!-- END:LIST -->
-
 ## The Horse revisited
 
-<!-- BEGIN:LIST -->
-★ Yaan's horse revisited
-
+##### Yaan's horse revisited
+  
 - Lasa may have needed more WG (for some [unknown]
 - reasons).
 - Perhaps his relationship with his
@@ -556,37 +499,26 @@ A               |
 - That is why he gave a horse to Yaan,
 - thus bringing Yaan into his social world.
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Yaan's horse and Selu's attendance
-
+##### Yaan's horse and Selu's attendance
+  
 - both mean the same thing ---
 - let me talk from Sam and Lasa's
 - stand points --- 
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Re-introducing Disappearing WG
-
+##### Re-introducing Disappearing WG
+  
 - The giving of the horse as well as
 - the invitation of Selus to the *bou*
 - were meant to re-introduce Yaan and
 - Selus, disappearing WGs.
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Into what
-
+##### Into what
+  
 - Reintroducing them into what?
 - "Sociality" I contend
 - the world whose components are 
 - socially recognized THINGS
 - (social facts).
-
-<!-- END:LIST -->
 
 ----
 
@@ -595,16 +527,15 @@ A               |
 それなりに意味のあるものとして、
 理解されるようになったであろう。
 
-<!-- BEGIN:LIST -->
-★ Seeming petitio principi
-
+##### Seeming petitio principi
+  
 - My arguments sounds like a type of fallacy
 - called "begging the question"
 - or more pedantically, *petitio principi*.
 - Since "Sociality" is defined using the word "social".
 - No, it isn't.
 
-<!-- END:LIST -->
+# References
 
 [^FN-1]: 「ンガヴ」とは、もともと、
 「財」の意味である。
@@ -621,7 +552,3 @@ A               |
 事を言いたいわけではない。
 結果としてそうなっているという
 だけである。
-
-
-# References
-

@@ -1,0 +1,453 @@
+.so @exammcr.ntf
+.\".answer
+.ce 10
+1997 Ç¯ÅÙ Ê¸²½¿ÍÎà³Ø¡¡¸å´ü¥Æ¥¹¥È
+.if ANSWER==0
+.{
+.sp
+·Ù¹ð¡§Á°´ü¤Ë¥ì¥Ý¡¼¥È¤òÄó½Ð¤·¤Æ¤¤¤Ê¤¤¤â¤Î¤Ï
+¤³¤Î¥Æ¥¹¥È¤ò¼õ¤±¤Æ¤âÌµÂÌ¤Ç¤¢¤ë
+.}
+.\"
+.ce
+
+.SETUMEI
+
+
+.QST ¥¨¥ó¥Ç¤Î·ëº§
+
+¥¨¥ó¥Ç¤Î·ëº§¤Ë¤Ï£´¤Ä¡Ê¤Ê¤¤¤·¤Ï¡¤¿ô¤¨Êý¤Ë¤è¤Ã¤Æ¤Ï£µ¤Ä¡Ë¤Î·¿¤¬¤¢¤ë¡£
+ÆÃ¤Ë
+.number AA ¥¢¥Ê¡¦¥¢¥¼
+¤È
+.number MDWS ¥à¥Ö¥º¡¦¥ó¥É¥¥¡¼¡¦¥¦¥§¥µ¡¦¥¹¥ó¥À
+¤ÎÆó¤Ä¤Î·¿¤Ë¤Ä¤¤¤Æ¾Ü¤·¤¯¼ø¶È¤Ç¤Ï°·¤Ã¤¿¡£
+.put AA
+¤Ï¡¤ÊìÊý¤Î¸òº¹¥¤¥È¥³¤È¤Îº§°ù¤ò¡¤¤¢¤ë¤¤¤Ï¥¨¥ó¥ÇÉ÷¤Ë¸À¤¨¤Ð¡¤
+¤Õ¤ë¤¤¥«¥Ã¥¨¡¦¥¦¥ó¥Ö¤È¤Îº§°ù¤ò»Ø¤¹¸ÀÍÕ¤Ç¤¢¤ë¡£
+¤½¤ì¤ËÂÐ¤·¤Æ¡¤
+.put MDWS
+¤Ï¡¤¿·¤·¤¤¥«¥Ã¥¨¡¦¥¦¥ó¥Ö¤òºî¤ëº§°ù¤ò»Ø¤¹¡£
+¤³¤ÎÆó¤Ä¤Îº§°ù¤Î·¿¤ÏÍÍ¡¹¤Ê°ÕÌ£¤ÇÂÐ¾ÈÅª¤Ç¤¢¤ë¡£
+º§»ñ¡¤¤¹¤Ê¤ï¤Á
+.number NGAWU ¥ó¥¬¥ô H
+¤ÎÅÀ¤Ç¤Ï¡¤
+.put AA
+¤¬
+.put MDWS
+¤è¤ê¡¤
+.number HIGH ¹â¤¤ A
+.choose ¹â¤¤ Äã¤¤
+¤·¡¤
+¤Þ¤¿¡¤°Ò¿®¤È¤¤¤¦ÅÀ¤«¤é¤ß¤ë¤È¡¤
+.put AA
+¤¬
+.put MDWS
+¤è¤ê
+.number HIGH ¹â¤¤ A
+.choose ¹â¤¤ Äã¤¤
+¤È¤¤¤¦¤³¤È¤¬»ØÅ¦¤Ç¤­¤ë¡£
+.CHOOSE
+.choice
+.{
+.C ¥ó¥Ö¥º¡¦¥ó¥É¥¥¡¼¡¦¥¦¥§¥µ¡¦¥¹¥ó¥À
+.C ¥Ñ¥Æ¥£¡¦¥¦¥§¥¿¡¦¥Æ¥£¥Ã¥¤¡¦¥¢¥Í
+.C ¥È¥¥¥ó¥Ü¡¦¥¾¡¼
+.C ¥«¥Ã¥¨¡¦¥¦¥ó¥Ö
+.C ¥ó¥¬¥ô
+.C ¥Ñ¥Ñ¡¦¥Ñ¡¼¥¦¥§
+.C ¥¢¥ê¡¦¥«¥Ã¥¨¡¦¥¹¡¦¥ó¥°¥¢
+.C ¥¢¥Ê¡¦¥¢¥¼
+.C ¥ß¥Ì¡¦¥é¡¼¡¦¥À¥Ã¥È
+.C ¥ï¥¸¥ã¡¦¥«¥ß
+.}
+.choiceend
+.QST ¥Þ¥Ã¥·¥àÃÏÊý¤Î¸ò´¹
+
+¡¡Á°´ü¤Ë¤ª¤¤¤Æ¡¢¤ï¤ì¤ï¤ì¤Ï¸ò´¹¤ò¤Þ¤º£²¼ïÎà¤ËÊ¬Îà¤·¤¿¡£
+.number TORIHIKI ¼è¤ê°ú¤­ D
+¸ò´¹¤È
+.number OKURIMONO Â£¤ê¤â¤Î C
+¸ò´¹¤Ç¤¢¤ë¡£
+¥Þ¥Ã¥·¥àÃÏ°è¤òÎã¤Ë¤È¤ê¡¢
+.put OKURIMONO Â£¤ê¤â¤Î
+¸ò´¹¤È¤·¤Æ¤Î
+.number KULA ¥¯¥é G
+¤½¤·¤Æ¡¢
+.put TORIHIKI ¼è¤ê°ú¤­
+¸ò´¹¤È¤·¤Æ¤Î
+.number GIMWALI ¥®¥à¥ï¥ê J
+¤ò¾Ò²ð¤·¤¿¡£
+.put KULA ¥¯¥é
+¤Ï¡¢
+.number mwali ¥à¥ï¥ê
+¤È¥½¥¦¥é¥ô¥¡¡Ê¤¢¤ë¤¤¤Ï¥Ð¥®¡Ë
+¤È¸Æ¤Ð¤ì¤ë³­¤Îºâ²ß¤ò¸ò´¹¤¹¤ëµ·ÎéÅª¤Ê¸ò´¹¤Ç¤¢¤ë¡£
+.put GIMWALI ¥®¥à¥ï¥ê
+¤Ï¡¢¤½¤ÎºÝ¤Ë¹Ô¤ï¤ì¤ëÊª¡¹¸ò´¹¤Ç¤¢¤ë¡£
+.choice
+.{
+.C ¥Ï¥ì¥Ê
+.C ¹×»ò
+.C Â£¤ê¤â¤Î
+.C ¼è¤ê°ú¤­
+.C Áê¸ß
+.C ¥ï¥é¥ï¥é
+.C ¥¯¥é
+.C ¥à¥ï¥ê
+.C ¥Ý¥È¥é¥Ã¥Á
+.C ¥®¥à¥ï¥ê
+.} 
+.choiceend
+
+
+.QST ¸ò´¹¤È´Ø·¸
+
+ºÇ½ªÅª¤Ë¤ï¤ì¤ï¤ì¤Ï¸ò´¹¤ò»°¤Ä¤Î¼ïÎà¤ËÊ¬¤±¤¿¡£
+¤½¤ì¤Ï¡¢
+.put OKURIMONO Â£¤ê¤â¤Î
+¸ò´¹¡¢
+.put TORIHIKI ¼è¤ê°ú¤­
+¸ò´¹¡¢¤½¤ì¤ËÂè£³¤Î·¿¤È¤·¤Æ¤Î
+.number KOUSHI ¹×»ò D
+¸ò´¹¤Ç¤¢¤ë¡£
+
+.put OKURIMONO Â£¤ê¤â¤Î
+¸ò´¹¤È
+.put TORIHIKI ¼è¤ê°ú¤­
+¸ò´¹¤¬¡¢
+.number EQUAL Ê¿Åù A
+.choose Ê¿Åù¤Î ÉÔÊ¿Åù¤Î ¶­³¦¤Î¤¢¤ë ¶­³¦¤Î¤Ê¤¤ ´÷Èò´Ø·¸¤Ë¤¢¤ë ´÷Èò´Ø·¸¤Ë¤Ê¤¤
+¤Î´Ø·¸¤ÎÃæ¤Ç¹Ô¤ï¤ì¤ë¸ò´¹¤Ç¤¢¤ë¤Î¤Ë¤¿¤¤¤·¡¢
+.put KOUSHI ¹×»ò
+¸ò´¹¤Ï
+.number UNEQUAL ÉÔÊ¿Åù B
+.choose Ê¿Åù¤Î ÉÔÊ¿Åù¤Î ¶­³¦¤Î¤¢¤ë ¶­³¦¤Î¤Ê¤¤ ´÷Èò´Ø·¸¤Ë¤¢¤ë ´÷Èò´Ø·¸¤Ë¤Ê¤¤
+¤Î´Ø·¸¤ÎÃæ¤Ç¹Ô¤ï¤ì¤ë¸ò´¹¤Ç¤¢¤ë¡£
+
+.put OKURIMONO Â£¤ê¤â¤Î
+¸ò´¹¤È
+.put TORIHIKI ¼è¤ê°ú¤­
+¸ò´¹¤Ï¡¢
+³Î¤«¤Ë¡¢
+.put EQUAL Ê¿Åù
+¤Î´Ø·¸¤Ç¹Ô¤ï¤ì¤ë¤¬¡¢¼¡¤Î¤è¤¦¤Ê°ã¤¤¤¬¤¢¤ë¡£
+¤¹¤Ê¤ï¤Á¡¢¿Í´Ö´Ø·¸¤¬
+.put OKURIMONO Â£¤ê¤â¤Î
+¸ò´¹¤Ç¤Ï
+.number EXIST Â¸ºß¤¹¤ë E
+.choose ½Û´Ä¤¹¤ë ½Û´Ä¤·¤Ê¤¤ ¸òÂØ¤¹¤ë ¸òÂØ¤·¤Ê¤¤ Â¸ºß¤¹¤ë Â¸ºß¤·¤Ê¤¤
+¤Î¤ËÂÐ¤·¡¢
+.put TORIHIKI ¼è¤ê°ú¤­
+¸ò´¹¤Î¤Ê¤«¤Ç¤Ï¡¢¤½¤ì¤Ï
+.number NOTEXIST Â¸ºß¤·¤Ê¤¤ F
+.choose ½Û´Ä¤¹¤ë ½Û´Ä¤·¤Ê¤¤ ¸òÂØ¤¹¤ë ¸òÂØ¤·¤Ê¤¤ Â¸ºß¤¹¤ë Â¸ºß¤·¤Ê¤¤
+¡£
+.CHOOSE
+.choice
+.{
+.C Ê¿Åù¤Î
+.C ËÇ°×
+.C ÉÔÊ¿Åù¤Î
+.C ¹×»ò
+.C Ä«¹×
+.C Â£¤ê¤â¤Î
+.C ¼è¤ê°ú¤­
+.C Áê¸ß
+.C ¸òÂØ¤¹¤ë
+.C ¸òÂØ¤·¤Ê¤¤
+.}
+.choiceend
+
+.QST ¸ò´¹¤È´Ø·¸
+
+ÀâÌÀÏÀ¤ÎÃæ¤Ç¡¤¸ò´¹¤¬¡ÖÀâÌÀ¤µ¤ì¤ë¤â¤Î¡×¤Ç¡¤´Ø·¸¤¬¡ÖÀâÌÀ¤¹¤ë¤â¤Î¡×¤Ç¤¢¤ë»þ¡¤
+¤ï¤ì¤ï¤ì¤Ï¤½¤ì¤ò¡Ö¸ò´¹¤¬¡¤´Ø·¸¤ò
+.number RECONF ºÆ³ÎÇ§
+¤¹¤ë¡×¤È¸Æ¤ó¤À¡£
+µÕ¤Ë¡¤´Ø·¸¤¬¸ò´¹¤Ë¤è¤Ã¤ÆÀâÌÀ¤µ¤ì¤ë»þ¡¤¤½¤ì¤ò¡Ö¸ò´¹¤¬´Ø·¸¤ò
+.number CREATE À¸À®
+¤¹¤ë¡×¤È¸Æ¤ó¤À¡£
+¥¨¥ó¥Ç¤Ë¤ª¤¤¤Æ¡Ö¸ò´¹¤¬´Ø·¸¤ò
+.put CREATE À¸À®
+¤¹¤ë¡×Îã¤È¤·¤Æ¡¤µó¤²¤¿¤Î¤¬
+.number RHOO ¥È¥¥¥ó¥Ü¡¦¥¾¡¼
+À©ÅÙ¤Ç¤¢¤ë¡£
+¤½¤ÎÀ©ÅÙ¤È¤Ï¡¤
+º§»ñ¤¬Ê§¤¨¤Ê¤¤ÃË¤Î¤«¤ï¤ê¤Ë¡¤Èà¤Îº§»ñ¤òÊ§¤Ã¤Æ¤ä¤ë¤³¤È¤Ë¤è¤Ã¤Æ¡¤
+¤½¤ÎÃË¤¬¡¤Ê§¤Ã¤¿ÃË¤Î
+.number AK ¥¢¥ê¡¦¥«¥Ã¥¨
+¤Ë¤Ê¤ë¤È¤¤¤¦À©ÅÙ¤Ç¤¢¤ë¡£
+
+.choice
+.{
+.C ¥«¥Ã¥¨¡¦¥¦¥ó¥Ö
+.C ¥¦¥§¥¿¡¦¥¢¥Í
+.C ¥¢¥ê¡¦¥«¥Ã¥¨
+.C ¥È¥¥¥ó¥Ü¡¦¥¾¡¼
+.C ¥Ñ¥Æ¥£¡¦¥¦¥§¥¿¡¦¥Æ¥£¥Ã¥¤¡¦¥¢¥Í
+.C ¥Ñ¥Ñ¡¦¥Ñ¡¼¥¦¥§
+.C ·ë¹ç
+.C ºÆ³ÎÇ§
+.C À¸À®
+.C Êä´°
+
+.}
+.choiceend
+
+
+.QST ¥¨¥ó¥Ç¤Î¿ÆÂ²¸Æ¾Î
+
+¥¨¥ó¥Ç¤Ë¤ª¤±¤ë¿ÆÂ²¤ÎÆóÂç¸¶Íý¤Ï
+.number LINEAL Éã·Ï G
+¤È
+.number MCCM ÊìÊý¸òºµ¥¤¥È¥³º§ H
+¤È¤Ç¤¢¤ë¡£
+¤¿¤È¤¨¤Ð¡¢¤½¤ì¤Ï¿ÆÂ²¸Æ¾Î¤Ë¤â¸½¤ì¤Æ¤¤¤ë¡£
+.put LINEAL Éã·Ï
+¤Î¸¶Íý¤Ï¡¢Îã¤¨¤Ð¡¢
+£Æ¤È
+.number FB FB H
+.choose WF FBS MBS FZ ZD ZS FF FB
+¤È¤¬Æ±¤¸Ì¾¾Î¤Ç¸Æ¤Ð¤ì¤ë¤³¤È¡¢
+.put MCCM ÊìÊý¸òºµ¥¤¥È¥³º§
+¤Ï¡¢£Í£Â¤È
+.number WF WF A
+.choose WF FBS MBS FZ ZD ZS FF FB
+¤¬Æ±¤¸Ì¾¾Î¤Ç¸Æ¤Ð¤ì¤ë¤³¤È¤¬Íý²ò¤Ç¤­¤ë¡£
+¥¨¥ó¥Ç¤Ç¤Ï¡¤£Í£Â¤Ï
+.number mame ¥Þ¥á J
+¤È¡¤£Æ¤Ï¥¢¥Þ¤È¸Æ¤Ð¤ì¤Æ¤¤¤ë¡£
+¤µ¤é¤Ë¡¤FMBS¤Ï¡¤
+.number mame ¥Þ¥á J
+¤È¸Æ¤Ð¤ì¤ë¡£
+
+.CHOOSE
+.choice
+.{
+.C ¥¸¥á (rhime)
+.C ¥¢¥Í('ane)
+.C ¥¤¥Í('ine)
+.C ¤ª¤¸Êýµï½»
+.C Êì·Ï
+.C É×Êýµï½»
+.C Éã·Ï
+.C ÊìÊý¸òºµ¥¤¥È¥³º§
+.C Î¾Â¦¸òºµ¥¤¥È¥³º§
+.C ¥Þ¥á(mame)
+.}
+.choiceend
+
+.QST ¥¨¥ó¥Ç¤Î¿ÆÂ²¡¢Ê¬Îà¸¶Íý
+
+Âè­µÉô¤Ë¤ª¤¤¤Æ¡¢Æó¤Ä¤ÎÊ¬Îà¸¶Íý¤òÃê½Ð¤·¤¿¡£
+»ä¤¿¤Á¤Ï¡¢¤½¤ì¤ò¡¢
+.number ATTRIB Â°À­Åª A
+Ê¬Îà¤È¡¢
+.number RELATION ´Ø·¸Åª D
+Ê¬Îà¤ÈÌ¾¤Å¤±¤¿¡£
+¥¨¥ó¥Ç¤Ë¤ª¤±¤ë¿ÆÂ²¤ÎÆó¤Ä¤Î¸¶Íý¡¢¤¹¤Ê¤ï¤Á¡¢
+.put LINEAL Éã·Ï
+¤Î¸¶Íý¤È
+.put MCCM ÊìÊý¸òºµ¥¤¥È¥³º§
+¤Î¸¶Íý¤Ï¡¢
+¾åµ­¤ÎÆó¤Ä¤ÎÊ¬Îà¸¶Íý¤ËÂÐ±þ¤·¤Æ¤¤¤ë¡¢
+¤¹¤Ê¤ï¤Á¡¢
+.put LINEAL Éã·Ï
+¤Ï¡¢
+.put ATTRIB Â°À­Åª
+Ê¬Îà¤Î¸¶Íý¤Ç¤¢¤ê¡¢
+.put MCCM ÊìÊý¸òºµ¥¤¥È¥³º§
+¤Ï¡¢
+.put RELATION ´Ø·¸Åª
+Ê¬Îà¤Î¸¶Íý¤Ê¤Î¤Ç¤¢¤ë¡£
+.choice
+.{
+.C Â°À­Åª
+.C ´ÖÀÜÅª
+.C ´¶³ÐÅª
+.C ´Ø·¸Åª
+.C µÒ´ÑÅª
+.C ¼ç´ÑÅª
+.C ´Ö¼ç´ÑÅª
+.C Ä¾ÀÜÅª
+.C »äÅª
+.C ¸øÅª
+.}
+.choiceend
+
+
+.QST ¥¨¥ó¥Ç¤Î¸ò´¹¡Ê­µ¡Ë
+
+¥¨¥ó¥Ç¤Ë¤ª¤¤¤Æ¡¢¤¢¤ëÆó¿Í¤Î´Ö¤Ë¤¢¤ë´Ø·¸¤Ï¡¢
+¼¡¤Î»°¤Ä¤Î²ÄÇ½À­¤À¤±¤Ç¤¢¤ë¡§¤¹¤Ê¤ï¤Á¡¢
+.number WGWT ¥«¥Ã¥¨¡¦¥¦¥ó¥Ö¤È¥¦¥§¥¿¡¦¥¢¥Í G
+¡¢
+.number AGAG ¥¢¥ê¡¦¥«¥Ã¥¨¤È¥¢¥ê¡¦¥«¥Ã¥¨ F
+¤¢¤ë¤¤¤Ï
+.number NGNG ¥¢¥¿¤È¥¢¥¿ H
+¤Ç¤¢¤ë¡£
+.put NGNG
+¤Ï¡¢Èó¿ÆÂ²´Ö¤Î´Ø·¸¤òÉ½¤¹¡£
+.put AGAG
+¤Î´Ö¤Î¥â¥Ã¥È¡¼¤Ï
+.number SEATE ¥¹¡¦¥¢¥Æ A
+¤Ç¤¢¤ê¡¢
+.number INDIVISIBLE Ê¬³äÉÔ²ÄÇ½À­ B
+.choose Ê¬³ä²ÄÇ½À­ Ê¬³äÉÔ²ÄÇ½À­
+¤¬¶¯Ä´¤µ¤ì¤ë¡£
+¤Þ¤¿¡¢
+.put WGWT
+¤Î´Ö¤Î´Ø·¸¤Î¥â¥Ã¥È¡¼¤Ï
+.number PAPA ¥Ñ¥Ñ¡¦¥Ñ¥¦¥§ J
+¤È¤¤¤ï¤ì¡¢¤³¤Î´Ø·¸¤Î
+.number DIVISIBLE Ê¬³ä²ÄÇ½À­ A
+.choose Ê¬³ä²ÄÇ½À­ Ê¬³äÉÔ²ÄÇ½À­
+¤¬¶¯Ä´¤µ¤ì¤ë¡£
+.put AGAG
+¤Î´Ö¤Ç¤Ï¡¢
+¤½¤Î¸ò´¹¤Ï
+.number BAGI ¥Ð¥® C
+¤È¸Æ¤Ð¤ì¤ë¡£
+¤½¤ì¤ËÂÐ¤·¤Æ¡¢
+.put WGWT
+¤Î´Ö¤Ç¤Ï¡¢
+.number PATI ¥Ñ¥Æ¥£ E
+¡Ê¡ÖÍ¿¤¨¤ë¡×¡Ë¤È
+.number SIMO ¥·¥â D
+¡Ê¡Ö¼õ¤±¼è¤ë¡×¡Ë¤È¤¤¤¦¸ì¤¬»È¤ï¤ì¤ë¡£
+.CHOOSE
+.choice
+.{
+.C ¥¹¡¦¥¢¥Æ
+.C ¥ó¥Ö¥¿
+.C ¥Ð¥®
+.C ¥·¥â
+.C ¥Ñ¥Æ¥£
+.C ¥¢¥ê¤È¥«¥Ã¥¨
+.C ¥«¥Ã¥¨¡¦¥¦¥ó¥Ö¤È¥¦¥§¥¿¡¦¥¢¥Í
+.C ¥¢¥¿¤È¥¢¥¿
+.C ¥Ì¥¢¤È¥ï¥¸¥ã
+.C ¥Ñ¥Ñ¡¦¥Ñ¥¦¥§
+.}
+.choiceend
+
+.QST ¥¨¥ó¥Ç¤Î¸ò´¹¡Ê­¶¡Ë
+
+.put RELATION ´Ø·¸Åª
+Ê¬Îà¤Î¥¨¥ó¥Ç¤Ë¤ª¤±¤ëÅµ·¿Åª¤ÊÎã¤È¤·¤Æ¡¢
+¥¢¥ê¡¦¥«¥Ã¥¨¡¦
+.number AKHAI ¥¢¥¿¡¦¥Ï¥¤ D
+¤¬µó¤²¤é¤ì¤¿¡£
+¤³¤ì¤Ï¡¢
+.number URHU ¥¦¥º B
+¡Ê¡ÖÆ¬¡×¡Ë¡Ê¤¹¤Ê¤ï¤Á¡¢
+.number FUNERAL ÁòÎé H
+¤ÎºÝ¤Ë»ÙÊ§¤ï¤ì¤ëºâ¡Ë¤Î¼õ¤±¼ê
+¡ÊÂçÄñ¤Î¾ì¹ç¡ÖÊì¤Î¥­¥ç¥¦¥À¥¤¡×¤Ç¤¢¤ë¡Ë
+¤ò¶¦Í­¤¹¤ëÆó¿Í¤Î´Ö¤Î´Ø·¸¤ò»Ø¤¹¤³¤È¤Ð¤Ç¤¢¤ë¡£
+¥º¥Ñ¡¦¥É¥êÂ¼¤ÎÂ°¤¹µ·Îé¶¦Æ±ÂÎ¤¹¤Ê¤ï¤Á
+¥¿¥Ê¡¦
+.number RHORHO ¥¾¥¾ A
+¤Îµ¯¸»¿ÀÏÃ¤Ë½Ð¤Æ¤¯¤ë
+Æó¿Í¤ÎÃË¡¢
+.put RHORHO ¥¾¥¾
+¤È
+.number RHEA ¥¼¥¢ G
+¤â¡¢¤³¤Î´Ø·¸¤Ë¤¢¤ë¤³¤È¤Ï¶½Ì£¿¼¤¤¤³¤È¤Ç¤¢¤ë¡£
+.choice
+.{
+.C ¥¾¥¾
+.C ¥¦¥º
+.C ¥¨¥³
+.C ¥¢¥¿¡¦¥Ï¥¤
+.C ¥ª¥Í¡¦¥Ì¥¢
+.C ¥¹¡¦¥ó¥°¥¢¡¦¥¹¡¦¥ó¥Ð¥×
+.C ¥¼¥¢
+.C ÁòÎé
+.C º§Îé
+.C ÃÂÀ¸
+.}
+.choiceend
+
+
+.QST ¥¨¥ó¥Ç¤Î½¸ÃÄ
+
+¥¨¥ó¥Ç¤Ë¤ª¤±¤ë
+.put ATTRIB Â°À­Åª
+Ê¬Îà¤Ë´ð¤Å¤¯½¸ÃÄ¤È¤·¤Æ¡¢
+¡Êµ¬ÌÏ¤ÎÂç¤­¤¤¤Û¤¦¤«¤é½çÈÖ¤Ë¡Ë
+.number TANA ¥¿¥Ê F
+¡¢
+.number NUA ¥Ì¥¢ A
+¡Ê¡ÖÂ¼¡×¡Ë¡¢
+¤½¤·¤Æ
+.number WAJA ¥ï¥¸¥ã B
+¤Ê¤É¤¬µó¤²¤é¤ì¤¿¡£
+.put TANA ¥¿¥Ê
+¤Ï¡¢
+.number NGGUA µ·Îé H
+¤òÆ±¤¸¤¯¤¹¤ë½¸ÃÄ¤Ç¡¢
+Îò»ËÀ­¤ò¤½¤ÎÆÃÄ§¤È¤¹¤ë¡£
+.put NUA ¥Ì¥¢
+¤Ï¡¢
+.number RESIDENCE µï½» B
+.choose ºâ»º µï½» ½¡¶µ ÊìÊý¸òº¹¥¤¥È¥³ Êì·Ï¤ÎÀèÁÄ 
+¤òÆ±¤¸¤¯¤¹¤ë½¸ÃÄ¤Ç¤¢¤ë¡£
+.put WAJA ¥ï¥¸¥ã
+¤Ï¡¢½ã¿è¤Ê°ÕÌ£¤Ç¤Î½Ð¼«½¸ÃÄ¤È¸Æ¤Ö¤³¤È¤¬½ÐÍè¤ë¤À¤í¤¦¡£
+.put WAJA ¥ï¥¸¥ã
+¤È¤¤¤¦¸ì¤ÎËÜÍè¤Î°ÕÌ£¤Ï¡¤¡ÖÇ¯Ï·¤¤¤¿¤â¤Î¡×¤È¤¤¤¦°ÕÌ£¤Ç¤¢¤ë¡£
+.CHOOSE
+.choice
+.{
+.C ¥Ì¥¢ 
+.C ¥ï¥¸¥ã 
+.C ¥Æ¥£¥ô 
+.C ¥ô¥§¥¤¥¦¥§¥«¥Ë 
+.C ¥«¥Ã¥¨¡¦¥¦¥ó¥Ö 
+.C ¥¿¥Ê
+.C ÊìÊý¸òº¹¥¤¥È¥³
+.C µ·Îé
+.C Êì·Ï¤ÎÀèÁÄ
+.C µï½»
+.}
+.choiceend
+
+.QST ¥¨¥ó¥Ç¤Îºâ»º
+
+¥¨¥ó¥Ç¤Î½¸ÃÄ¤ÎÆâ¡¢ºâ»ºÊÝÍ­¤ÎÃ±°Ì¤È¤·¤Æµ¡Ç½¤¹¤ë¤Î¤Ï¡¢
+¼ç¤È¤·¤Æ¡¢
+.number HH À¤ÂÓ H
+¤Ç¤¢¤ë¡£
+¤¿¤·¤«¤Ë¡¢
+.put WAJA ¥ï¥¸¥ã
+¤â¡¢
+.number RITUAL µ·ÎéÅªÅÚÃÏ F
+¤ò¡Ö½êÍ­¡×¤·¤Æ¤¤¤ë¡¢¤È¸À¤¨¤Ê¤¯¤Ï¤Ê¤¤¤¬¡¢
+¤½¤ì¤Ï¤¢¤¯¤Þ¤Ç¡¢Èó¾ï¤Ë¸ÂÄê¤µ¤ì¤¿°ÕÌ£¤Ç¡¢¤Ç¤¢¤ë¡£
+.put HH À¤ÂÓ
+¤Ï¡¢
+.number SECULAR À¤Â¯ÅªÅÚÃÏ J
+¤È¥ó¥¬¥ô
+¤ò¡Ê¤«¤Ê¤êÆüËÜ¸ì¤Ë¶á¤¤°ÕÌ£¤Ç¡Ë¡Ö½êÍ­¡×¤·¤Æ¤¤¤ë¡£
+¥ó¥¬¥ô
+¤Ï¡¢¶âºÙ¹©¡Ê¥¦¥§¥¢¡Ë¤ä¾Ý²ç¤«¤é¤Ê¤ê¡¢
+Éã¿Æ¤Î¤ß¤¬¤½¤Î½êºß¡¦ÎÌ¤òÃÎ¤Ã¤Æ¤¤¤ë¡£
+.choice
+.{
+.C ¥¿¥Ê
+.C ¥ô¥§¥¤¥¦¥§¥«¥Ë
+.C ¥½¥¦¥é¥ô¥¡
+.C ¥ó¥¬¥ô
+.C ¥Ï¥ì¥Ê
+.C µ·ÎéÅªÅÚÃÏ
+.C ·ÐºÑÅªÅÚÃÏ
+.C À¤ÂÓ
+.C ¥Ì¥¢
+.C À¤Â¯ÅªÅÚÃÏ
+.}
+.choiceend
+
+
+.makeanswer

@@ -1,39 +1,45 @@
 ---
-title: 結婚する
-author: Satoshi Nakagawa
-
-documentclass: ltjarticle
+title: "結婚する"
+author: "Satoshi Nakagawa"
+documentclass: bxjsarticle
+lang: ja-JP
+created:
+date: 
+nocite: 
 ---
     
-     tuu tunda,
-     nawu ndeni,
-     teta ma'E mbeta,
-     towa ma'E papa nggEra,
-     kombE weta,
-     rhera nara,
-     tona iwa ka ono,
-     bheka iwa ka rina,
+divert(-1)
 
-     （エンデの儀礼詩より）
+divert
 
+<!---
+---
+RCS-title: 結婚する
+RCS-spec: ２００２年水曜日一限の基礎専門のために
+	（2002.10.30に講義）
+RCS-memo: 父系性と母方交差いとこ婚
+RCS-filename: $RCSfile: marry.yaml,v $
+RCS-date: Tue Oct 29 15:25:43 2002
+RCS-state: $Date: 2008-11-28 03:02:50 $
+RCS-revision: $State: Exp $
+RCS-something: $Revision: 1.1.1.1 $
+RCS-converted-date: 2024-03-25
+
+---
+-->
+
+<!-- FL -->
+```
+tuu tunda,nawu ndeni,teta ma'E mbeta,towa ma'E papa nggEra,kombE weta,rhera nara,tona 'iwa ka 'ono,bheka 'iwa ka rina,---,（エンデの儀礼詩より）
+
+```
 
 # 結婚──母方交差いとこ婚
 
  縦の関係（出自の関係──親子関係から派生する関係）について
-[前の講義](descend.md)
-まででお話ししてきました。
-この講義では、横の関係、すなわち結婚
-によって生じるシンセキ関係に焦点を移動します。
-
-<!-- BEGIN:LIST -->
-
-★ エンデの親族
-
-- 縦：出自（前の講義）
-- 横：縁組（この講義）
-
-<!-- END:LIST -->
-
+前節までお話ししてきました。
+この節は、**横の関係**
+、すなわち**結婚**によって生じるシンセキ関係に焦点を移動します。
 
 ## 生まれたときからのシンセキと結婚してからのシンセキ
 
@@ -41,17 +47,12 @@ documentclass: ltjarticle
 すぐ浮かばないかも知れない種類のシンセキの区別について、
 注意をしておきたいと思います。
 それは、「生まれたときからのシンセキと結婚してからのシンセキ」
-の区別です。
+の区別です。[ **under construction **  ]
 
-[ **under construction **  ]
-
-<!-- BEGIN:LIST -->
-★ 血族と姻族
-
+##### 血族と姻族
+  
 - 生まれたときからのシンセキ〜血族
 - 結婚してからのシンセキ〜姻族
-
-<!-- END:LIST -->
 
  子供にとっては、
 親にとって「結婚してからのシンセキ」だった人々が、
@@ -60,14 +61,11 @@ documentclass: ltjarticle
 そして、子供がシンセキの子供たちと遊ぶようになって、
 あらためて認識させられる不思議な事実です。
 
-<!-- BEGIN:LIST -->
-★ 脱線：ヨーロッパの姻族
-
+##### 脱線：ヨーロッパの姻族
+  
 - 『ハーガー』
 - 『ガーフィールド』
 - 『ボートの中の三人男』
-
-<!-- END:LIST -->
 
  [ **under construction ** エンデの場合では ]
 
@@ -88,9 +86,8 @@ documentclass: ltjarticle
 
  [ **under construction **  ] 学生の名前をつかってわかってもらう
 
-![母方交叉イトコ婚](dot/mbdm.jpg){width=70%}
+```
 
-<!--
 +--------+     +--------+
 |        |     |        |
 m        f === m        f
@@ -102,8 +99,8 @@ m        f === m        f
 +--------+     +--------+
 |        |     |        |
 m        f === m        f
--->
 
+```
 
 ## おばのたどった道
 
@@ -141,13 +138,10 @@ A's daughter, his wife, is originally
 his mother (A's sister)'s brother (that is, A)'s
 daughter, hence the name MBDM.
 
-<!-- BEGIN:LIST -->
-★ MBDM
-
+##### MBDM
+  
 - MBDM is a marriage by which a WG group
 	remains WG across generations
-
-<!-- END:LIST -->
 
  But that (``MBDM'') is not the way
 people of Ende express this
@@ -163,14 +157,11 @@ It's a FZS's marriage.
 A woman is tracing the path which her
 aunt (FZ) once went along.
 
-<!-- BEGIN:LIST -->
-★ Endenese way of MBDM
-
+##### Endenese way of MBDM
+  
 - Tracing the aunt (FZ)
 - A woman is tracing the path which her
 	aunt (FZ) once went along
-
-<!-- END:LIST -->
 
 ## 規則
 
@@ -179,9 +170,8 @@ aunt (FZ) once went along.
 われなければ、佐々木家に世代毎に違った WG が生まれる、
 ということになります。
 
-<!-- BEGIN:LIST -->
-★ MBDM is not the only rule
-
+##### MBDM is not the only rule
+  
 - Ana ArhE --- marriage "by
 	sitting and asking" (*ngambE*) (marriage by
 	arrangement)
@@ -192,17 +182,12 @@ aunt (FZ) once went along.
 - Poi --- Snatching (a girl from a
 	running house) (to be followed by fierce *jekE*)
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Ana ArhE
-
+##### Ana ArhE
+  
 - Most privileged type of marriage
 	(heaviest bridewealth, *ngawu*) ---
 	non-MBDM --- looking for a new alliance
 - Looking for a new WG.
-
-<!-- END:LIST -->
 
 ## 名称の体系
 
@@ -216,7 +201,7 @@ aunt (FZ) once went along.
 ところが、世界のいろいろな場所を見てみると、
 エンデよりもっと複雑な名称体系や複雑な仕組みを持っている
 人々がいるのです。
-レヴィ＝ストロースは『親族の基本構造』([@ls-elementary])という本のなかで、
+レヴィ＝ストロースは『親族の基本構造』<!---[@ls-elementary]-->という本のなかで、
 「彼らは数学的な楽しみのためにこのような複雑な
 システムを使っているのではないか」と書いているくらいなのです。
 じっさい、『親族の基本構造』の真ん中へんの一章は、
@@ -224,8 +209,48 @@ aunt (FZ) once went along.
 
  [ **under construction ** 人類学の親族理論、交換理論には ]
 
- [ **under construction ** ([@nakagawa-dog]) ]
+ [ **under construction ** <!---[@nakagawa-dog]--> ]
 
+<!-- Verfsion Up History 
+```
+
+$Id: marry.yaml,v 1.1.1.1 2008-11-28 03:02:50 satoshi Exp $
+$Log: marry.yaml,v $
+Revision 1.1.1.1  2008-11-28 03:02:50  satoshi
+
+Revision 1.1.1.1  2004/10/11 07:15:38  satoshi
+Initial import.
+
+Revision 1.3  2004/07/01 11:17:33  satoshi
+From Psmith.
+
+Revision 1.2  2004/06/08 02:20:04  satoshi
+画像の位置を変更。
+
+Revision 1.1.1.1  2003/04/26 08:00:36  satoshi
+New cvs-repository (2003.04.26)
+
+Revision 1.3  2002/12/03 07:41:06  satoshi
+dir-lib.m4 の代わりに data.m4 をインクルードした。
+
+Revision 1.2  2002/12/03 07:38:14  satoshi
+ディレクトリー変更にともなう Navig による修正。
+
+Revision 1.1  2002/12/01 11:22:26  satoshi
+Moved from a deeper directory.
+
+Revision 1.3  2002/11/12 08:54:07  satoshi
+*** empty log message ***
+
+Revision 1.2  2002/10/29 12:50:05  satoshi
+「生まれる前からのシンセキ」と「生まれたあとからのシンセキ」
+
+Revision 1.1  2002/10/29 07:50:08  satoshi
+give に書いていた親族組織が肥大したので、新しいファイル
+marry に移動した。
+
+```
+-->
 
 # References
 

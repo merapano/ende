@@ -1,15 +1,32 @@
 ---
-title: 『帰る』
-author: Satoshi Nakagawa
+title: "『帰る』"
+author: "Satoshi Nakagawa"
+documentclass: bxjsarticle
+lang: ja-JP
+created:
 date: 
+nocite: 
 ---
     
+<!---
+---
+RCS-title: 『帰る』
+RCS-spec: 2002年の専門基礎（エンデ民族誌）第６講義
+RCS-memo: エンデから帰る──本国の人類学者
+RCS-filename: $RCSfile: return.yaml,v $
+RCS-date: Wed Oct  9 11:01:15 2002
+RCS-state: $Date: 2008-11-28 03:02:50 $
+RCS-revision: $State: Exp $
+RCS-something: $Revision: 1.1.1.1 $
+RCS-converted-date: 2024-03-25
+
+---
+-->
+
 # 
 
-#+BEGIN*CENTER
-Version History
-#+END*CENTER
-#+BEGIN*EXAMPLE
+<!-- Verfsion Up History 
+```
 
 $Id: return.yaml,v 1.1.1.1 2008-11-28 03:02:50 satoshi Exp $
 $Log: return.yaml,v $
@@ -36,7 +53,8 @@ Moved from a deeper directory.
 Revision 1.1  2002/10/09 14:50:16  satoshi
 まず、枠組みだけを作成した。
 
-#+END*EXAMPLE
+```
+-->
 
 # References
 

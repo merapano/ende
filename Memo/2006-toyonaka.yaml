@@ -1,0 +1,56 @@
+_HEADER({Lecture Memo of Toyonaka Lecture (2006)})
+
+m4_ifelse(***MAP***)
+
+_TITLE(2006年豊中講義メモ)
+_DATE()
+_AUTHOR_IS_ME()
+_MAKETITLE(1)
+m4_dnl m4_debugmode(V)m4_traceon
+m4_dnl m4_include(_HOME_DIR/flores/summary/ende.m4)
+m4_dnl m4_include(./data.m4)
+_DRAFT_ONLY({$Revision: 1.1.1.1 $} ({$Date: 2008-11-28 03:02:50 $}))
+_IDENTIFICATION( 
+	{{$RCSfile: 2006-toyonaka.yaml,v $}},
+	2006年豊中講義メモ,
+	2006年豊中講義メモ,
+	『エンデの民族誌』,
+	Tue Nov  7 14:47:10 2006,
+	{{$Date: 2008-11-28 03:02:50 $}},
+	{{$State: Exp $}},
+	{{$Revision: 1.1.1.1 $}},
+	{N/A}
+)
+
+m4_ifelse(***NAVIG***)
+_PSEUDONYM(
+	{PICTDIR},_HTTP_PICT_DIR/2002, _FTP_PICT_DIR/2002/10,
+	{GAMBARDIR},../../../pict/gambar,_HOME_DIR/av/gambar,
+	{SATOSHIDIR},{/~satoshi},{_HOME_DIR})
+m4_dnl _TEX_ONLY({m4_define({GAMBARDIR},_HOME_DIR/av/gambar)})
+_TOC_HERE
+
+_H(序)
+
+_H({各回の講義メモ})
+
+_INCLUDE(./2006-toyonaka.inc.yaml)
+
+_H({反省})
+
+
+_H_VER({
+$Id: 2006-toyonaka.yaml,v 1.1.1.1 2008-11-28 03:02:50 satoshi Exp $
+$Log: 2006-toyonaka.yaml,v $
+Revision 1.1.1.1  2008-11-28 03:02:50  satoshi
+
+
+Revision 1.1  2006/11/14 01:01:17  satoshi
+2006年の豊中授業用のメモ。
+
+})
+
+m4_ifelse(***NAVIG***)
+_BIB_HERE(_HOME_DIR/usr/lib/tex-macros/jecon)
+m4_dnl _INDEX_HERE
+

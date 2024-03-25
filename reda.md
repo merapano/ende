@@ -1,46 +1,53 @@
-<!-- -*- coding: utf-8; mode: markdown -*- -->
-
 ---
-title: 豚を洗礼する
-author: Satoshi Nakagawa
+title: "豚を洗礼する"
+author: "Satoshi Nakagawa"
+documentclass: bxjsarticle
+lang: ja-JP
+created:
 date: 
+nocite: 
 ---
     
+<!---
+---
+RCS-title: 豚を洗礼する
+RCS-spec: レッダ関連の class/ のファイルをまとめる
+RCS-memo: レッダ、社会性その他
+RCS-filename: $RCSfile$
+RCS-date: Wed Mar 16 08:57:03 2016
+RCS-state: $Date$
+RCS-revision: $State$
+RCS-something: $Revision$
+RCS-converted-date: 2024-03-25
+
+---
+-->
+
 # 豚の洗礼 Baptizing a pig
 
-<!-- BEGIN:LIST -->
-★ Everyday transactions
-
+##### Everyday transactions
+  
 -  Pigs are to be given by WG to WT
 - never from WT to WG
 - Even if you happen to have abundant pork
 	meat, you cannot give pork to a visiting WG
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ REda
-
+##### REda
+  
 - You can baptize (*rEda*) pork
 - by simply dubbing it "pork"
 - Somebody compared *rEda* to "baptizing"
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ What rEda does
-
+##### What rEda does
+  
 - it changes the world
 - But, into what?
 - --- it is Sociality, I contend
 
-<!-- END:LIST -->
-
 ## Everyday REda
 
-<!-- BEGIN:LIST -->
-★ One day a woman came to Yaan's house
-
+##### One day a woman came to Yaan's house
+  
 - and discussed her son's marriage.
 - She had collected a substantial amount of bridewealth by holding a
 	bou and by other means.
@@ -48,27 +55,18 @@ date:
 	part of bridewealth was not healthy
 - She was afraid the bride's group would complain.
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Yaan's advice
-
+##### Yaan's advice
+  
 - You haven't *rEda*-ed yet? Have you?
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Formalizing
-
+##### Formalizing
+  
 - I asked Yaan what he would translate
 	the word *rEda* in this context.
 - "Formalizing" (mengiakan) was his answer.
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ *REda* as sociality-making-device
-
+##### *REda* as sociality-making-device
+  
 - I would argue that, from, all the data
 	above,
 - that *rEda* is a
@@ -78,13 +76,10 @@ date:
 - socially recognized THINGS
 - (or "social facts").
 
-<!-- END:LIST -->
-
 ## Warfare and Selling Fish
 
-<!-- BEGIN:LIST -->
-★ Warfare 1/3
-
+##### Warfare 1/3
+  
 - There had been a long standing dispute
 	about the boundary of land, between my
 	village and a coastal village.
@@ -92,43 +87,31 @@ date:
 	coastal village climbed up to my village on
 	top of the mountain.
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Warfare 2/3
-
+##### Warfare 2/3
+  
 - They came with spears and bows and long
 	machetes.
 - They burned down houses and tried to
 	kill villagers. One was heavily wounded and
 	the other died.
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Warfare 3/3
-
+##### Warfare 3/3
+  
 - Villagers defended their village and
 	co-villagers. There went a fierce battle for
 	about an hour; and the people from the
 	coastal village left the village and went
 	away, back to the coast.
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Selling Fish 1/2
-
+##### Selling Fish 1/2
+  
 - A few days later, a man from the
 	coastal village climbed up to my village.
 - He was one of the attacking members.
 - He came to sell fish.
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Selling Fish 2/2
-
+##### Selling Fish 2/2
+  
 - He said: the other day, I was *songga*-ed
 	(asked to help by my brother-in-law); I
 	couldn't refuse the asking --- could you?
@@ -136,17 +119,12 @@ date:
 	brother-in-law. Today I came here to sell fish.
 - And villagers bought some fish from him.
 
-<!-- END:LIST -->
-
-<!-- BEGIN:LIST -->
-★ Justification
-
+##### Justification
+  
 - it's kind of *rEda* (a kind of justification [see below])
 - declaring can make the world change
 - But, "change" into what?
 - --- "Sociality"
-
-<!-- END:LIST -->
 
 # 豚の洗礼
 
@@ -193,9 +171,8 @@ OLIの家を訪れた。
 
  [ **under construction **  ]
 
-<!-- BEGIN:LIST -->
-★ レッダとは
-
+##### レッダとは
+  
 - ものごとを公式化することだ
 - 「約束する」と言ったとき入る領域、
 - 「知っている」と言ったとき入る領域、
@@ -207,9 +184,7 @@ OLIの家を訪れた。
 - そこではすべてがカウントされるのだ←→
 	「ノーカン」
 
-<!-- END:LIST -->
-
-*PRE(
+```
 
 +---------------------------+
 |   un-official sphere      |
@@ -223,7 +198,7 @@ OLIの家を訪れた。
 |                           |
 +---------------------------+
 
-)
+```
 
  「レッダ」があらわす状態の遷移を
 言い表わすよい言葉を思いつかない。

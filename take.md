@@ -1,19 +1,34 @@
-<!-- -*- coding: utf-8; mode: markdown -*- -->
-
 ---
-title: 『もらう』
-author: Satoshi Nakagawa
+title: "『もらう』"
+author: "Satoshi Nakagawa"
+documentclass: bxjsarticle
+lang: ja-JP
+created:
 date: 
+nocite: 
 ---
     
+<!---
+---
+RCS-title: 『もらう』
+RCS-spec: 2002年の専門基礎（エンデ民族誌）第５講義
+RCS-memo: エンデの（海外）援助
+RCS-filename: $RCSfile: take.yaml,v $
+RCS-date: Wed Oct  9 11:00:42 2002
+RCS-state: $Date: 2008-11-28 03:02:50 $
+RCS-revision: $State: Exp $
+RCS-something: $Revision: 1.1.1.1 $
+RCS-converted-date: 2024-03-25
+
+---
+-->
+
 # 序
 
 # もっと勉強してみたい人のために──独断と偏見の文献ガイド
 
-#+BEGIN*CENTER
-Version History
-#+END*CENTER
-#+BEGIN*EXAMPLE
+<!-- Verfsion Up History 
+```
 
 $Id: take.yaml,v 1.1.1.1 2008-11-28 03:02:50 satoshi Exp $
 $Log: take.yaml,v $
@@ -43,7 +58,8 @@ Revision 1.2  2002/10/28 05:30:44  satoshi
 Revision 1.1  2002/10/09 14:50:16  satoshi
 まず、枠組みだけを作成した。
 
-#+END*EXAMPLE
+```
+-->
 
 # References
 
