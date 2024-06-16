@@ -1,10 +1,11 @@
-# pubdir:~/Output/anthrop/class-md/towards_ende
+# root:/anthrop/class-md/ende
 # title: エンデへ！
 #version:v0.1.0
 #dirno:05
 #end
 
-README:README::P
+README:この本ができるまで:解説『エンデにむけて』:P
+intro:序論:::P
 visit:『出かける』:外国へ::P
 go_down:『下る』:田舎へ::V
 # work:『はたらく』:エンデの農耕儀礼::P
@@ -21,3 +22,4 @@ move:『移る』:エンデの労働移民::P
 take:『もらう』:エンデの援助::V
 return:『帰る』:エンデから::P
 fathers_back:「父の背中」:あたらしい嫁を与える者::V
+LICENSE:License:Creative Commons BY-NC-ND 4.0::P
