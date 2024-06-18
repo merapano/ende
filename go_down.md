@@ -53,9 +53,7 @@ RCS-converted-date: 2024-03-25
 ある農学者が東インドネシアを、「インドネシアの中のアフリカ」と
 呼んだことがあります──まさにその通りなのです。
 
-![](
-![ヌサ・トゥンガラ・ティムール州](../../../pict/gambar/dgrm/ntt.jpg){width=80%}
-.jpg){width=80%}
+![ヌサ・トゥンガラ・ティムール州](pict/ntt.jpg){width=80%}
 
  クパンは Nusa Tenggara Timur 州の州都のあるところです。
 
@@ -92,8 +90,8 @@ RCS-converted-date: 2024-03-25
 出会えるのです。
 外島の町がコスモポリタンだ、というのはそのような状況の中での意味なのです。
 
-![クパンの旧市街です](../../../pict/gambar/i_ntt_kupang/kota_01.jpg){width=35%}
-![これもクパンの旧市街です](../../../pict/gambar/i_ntt_kupang/kota_02.jpg){width=35%}
+![クパンの旧市街です](pict/bemo-kupang-1.jpg){width=35%}
+![これもクパンの旧市街です](pict/bemo-kupang-2.jpg){width=35%}
 
 ##### クパンの町の構成
   
@@ -172,7 +170,9 @@ _SS_HR
 - ダ・シルバさんの奥さん
 - リリさん
 
- ![300](../../../pict/gambar/i_ntt_ende_kota/manteiro_mama_01.jpg){width=70%}
+ ![](pict/manteiro-1.jpg){width=70%}
+ 
+ 
 私のエンデの町での最初の知り合いはダ・シルバさんといいます。
 [^FN-1]
 彼は、フローレスの東のララントゥカ出身です。
@@ -203,10 +203,10 @@ _SS_HR
 どんな言葉をしゃべっているのか、
 どんなものを食べているのか知らないのです。
 
-![エンデの下町の風景です](../../../pict/gambar/i_ntt_ende_kota/kota_01.jpg){width=35%}
-![露天で靴を売る人](../../../pict/gambar/i_ntt_ende_kota/kota_02.jpg){width=35%}
 
- _SS_HR
+![エンデの下町の風景です](pict/Ende_di_bawah-1.jpg){width=35%}
+![](pict/Ende_di_bawah-2.jpg){width=35%}
+
 
  エンデは、
 港町です。
@@ -236,7 +236,8 @@ _SS_HR
 
 # 幹線道路と海の村
 
- ![300](../../../pict/gambar/i_ntt_ende_kota/bemo_01.jpg){width=70%}
+
+
 フローレス島を移動するには、
 島を縦断している一本の幹線道路を使うしかありません。
 ベモとよばれるワゴン車にのり、西に進むことにしましょう。
@@ -264,8 +265,7 @@ _SS_HR
 - 海岸エンデ〜イスラム
 - 山岳エンデ〜カトリック
 
-![海岸部のナンブ村の村](../../../pict/gambar/i_ntt_ende_kampong/pantai_numba_01.jpg){width=35%}
-![海岸部のナンブ村の村](../../../pict/gambar/i_ntt_ende_kampong/pantai_numba_02.jpg){width=35%}
+![海岸部のナンブ村の村](pict/pantai_di_Numba.jpg){width=80%}
 
 ## エンデの村
 
@@ -369,7 +369,9 @@ _SS_HR
 
 ## 家
 
- ![300](../../../pict/gambar/i_ntt_ende_kampong/girls_standing.jpg){width=70%}
+[](pict/sao-0.jpg){width=35%}
+[](pict/sao-1.jpg){width=35%}
+
 一足先に村に帰っておくことにしましょう。
 もう夕方です。
 アナ・コッカという鳥が、

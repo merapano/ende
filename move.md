@@ -564,7 +564,7 @@ vs 非贈与、場所 vs 非場所）に取り込まれてしまい、グプタ�
  つぎの図は、語られる「出稼ぎ者」の言説体系の中での位置を示
 している。
 
-![](pict/space-a.jpeg.jpg){width=80%}
+<!-- ![](pict/space-a.jpeg.jpg){width=80%} -->
 
  ここでは、語りの宇宙は、一つの言語システム（「伝統的言説体
 系」）からのみ成り立っている。そして「出稼ぎ者」はその言語シス
@@ -888,19 +888,8 @@ vs 非贈与、場所 vs 非場所）に取り込まれてしまい、グプタ�
 
 <!--
 
-{: align="center"}
-A
-
 ![](pict/space-a.jpeg.jpg){width=80%}
-
-{: align="center"}
-B
-
 ![](pict/space-b.jpeg.jpg){width=80%}
-
-{: align="center"}
-C
-
 ![](pict/space-c.jpeg.jpg){width=80%}
 
 -->

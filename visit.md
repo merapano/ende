@@ -106,7 +106,8 @@ ndua ruka nE'E ura,wa'u sambu nE'E epu,---,（エンデの儀礼詩より）
 
 # 入国
 
- ![400](GAMBARDIR/i_jkt/blokM_01.jpg){width=70%}
+![Blok M](pict/blokM.jpg){width=70%} 
+
 ジャカルタの空港に到着したときは、すでに夜になっていました。
 いまでも、ジャカルタの空港に夜に到着すると、緊張しますが、
 この時は、「緊張」という言葉では物足りないほどに緊張していました。
@@ -176,7 +177,7 @@ ndua ruka nE'E ura,wa'u sambu nE'E epu,---,（エンデの儀礼詩より）
 
  簡単にインドネシアという国の紹介をしておきましょう。
 
-![インドネシアの地図](_MGP_IMAGE_GIF(GAMBARDIR/dgrm/Indonesia,400).jpg){width=80%}
+![インドネシアの地図](pict/indonesia.jpg){width=80%}
 
  まず知っておいてほしいのは、
 インドネシアはたいへん大きな国だ、ということです。
@@ -199,9 +200,7 @@ ndua ruka nE'E ura,wa'u sambu nE'E epu,---,（エンデの儀礼詩より）
 フローレスよりさらに東に島々は広がり、
 ニューギニア島まで達しています。
 
-![](
-![](GAMBARDIR/dgrm/Indonesia.jpg){width=80%}
-.jpg){width=80%}
+![インドネシア](pict/indonesia.jpg){width=80%}
 
 ## 行政区分
 
@@ -466,6 +465,9 @@ Wallace
 少しずつ回復しているものの、
 まだまだ往年の繁栄を取り戻すまでには至っていません。
 
+
+<!--
+
 ![ジャカルタの海の玄関口、タンジュン・プリオック港です](GAMBARDIR/i_jkt/minato_01.jpg){width=35%}
 ![これはたぶんブギスの船でしょう](GAMBARDIR/i_jkt/minato_02.jpg){width=35%}
 ![ジャカルタの旧市街です。
@@ -475,22 +477,32 @@ Wallace
 ![物売りが一息ついています](GAMBARDIR/i_jkt/kakilima_01.jpg){width=35%}
 ![やっと何か売れたようです](GAMBARDIR/i_jkt/kakilima_02.jpg){width=35%}
 
+-->
+
  現在ジャカルタの繁華街は
 北から南に移ってきています。
 大使館やビジネス街、
 そして、プラザと呼ばれる豪華なショッピングセンターのあるのが、
 ジャカルタの中央部です。
 
+<!--
+
 ![バジャイです](GAMBARDIR/i_jkt/bajaj_01.jpg){width=35%}
 ![庶民の足、バスを待つ人々](GAMBARDIR/i_jkt/tunggu_bis.jpg){width=35%}
+
+-->
 
  ジャカルタ中央部に、超高級住宅街メンテンがあります。
 しかし、大半の高級住宅は、より涼しい南部に位置しています。
 その中でももっとも古いのがクバヨラン・バルでしょう。
 次の写真は、クバヨラン・バルの近くの商店街、ブロックＭのものです。
 
+<!--
+
 ![店を広げます](GAMBARDIR/i_jkt/blokM_02.jpg){width=35%}
 ![チェスの対戦](GAMBARDIR/i_jkt/blokM_03.jpg){width=35%}
+
+-->
 
  「ジャカルタにしかインドネシアはない」と先ほど言いました。
 インドネシアについてしばらく書いてみましょう。
@@ -535,8 +547,12 @@ Wallace
 『最後の楽園バリ』は、
 このセールストークに負けないすばらしいところです。
 
+<!--
+
 ![とあるバリの街角です](GAMBARDIR/i_bali/machi_01.jpg){width=35%}
 ![有名な棚田です](GAMBARDIR/i_bali/tanada.jpg){width=35%}
+
+-->
 
 # もっと勉強してみたい人のために──独断と偏見の文献ガイド
 
